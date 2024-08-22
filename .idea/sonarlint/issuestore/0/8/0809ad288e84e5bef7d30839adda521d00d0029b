@@ -1,0 +1,8 @@
+
+P
+java:S1121".Extract the assignment out of this expression.(ôƒ’ûÿÿÿÿ8§«¤‘2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«‹ ÿÿÿÿÿ8Ìíœ¤‘2
+ˆ
+java:S4165"fRemove this useless assignment; "tipoAlas" already holds the assigned value along all execution paths.(ôƒ’ûÿÿÿÿ8Ïíœ¤‘2
+Q
+java:S1656"/Remove or correct this useless self-assignment.(ôƒ’ûÿÿÿÿ8Òíœ¤‘2

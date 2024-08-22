@@ -1,0 +1,19 @@
+
+r	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±«íÿÿÿÿÿ8şè¥‘2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŞÒ®ÿÿÿÿÿ8şè¥‘2
+y
+java:S1104"WMake numeroPatas a static final constant or non-public and provide accessors if needed.(òèâ­ùÿÿÿÿ8şè¥‘2
+S
+java:S1444"1Make this "public static numeroPatas" field final(òèâ­ùÿÿÿÿ8ÿè¥‘2
+s	java:S116"RRename this field "tamaÃ±o" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸×®ºùÿÿÿÿ8‚é¥‘2
+J
+java:S3010"(Remove this assignment of "numeroPatas".(ªª¸Üûÿÿÿÿ8„é¥‘2
+W
+java:S2209"5Change this instance-reference to a static reference.(ªª¸Üûÿÿÿÿ8…é¥‘2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°°Ãúÿÿÿÿ8…é¥‘2
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùŞÒ®ÿÿÿÿÿ8†é¥‘2
+J
+java:S1068"(Remove this unused "raza" private field.(îÜĞ£üÿÿÿÿ8ˆé¥‘2
+F
+java:S1068")Remove this unused "color" private field.(È„…¦8ˆé¥‘2
